@@ -1,8 +1,8 @@
-#include<stdio.h>
- /**
-  * main -A programme that prints a program and enters a new line
-  *  return 0
-  */
+#include <stdio.h>
+/**
+ * main - Entry point
+ * return: always 0 (success)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
