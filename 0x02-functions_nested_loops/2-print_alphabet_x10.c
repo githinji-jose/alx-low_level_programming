@@ -18,6 +18,6 @@ int main(void)
 			c++;
 		}
 		putchar('\n');
-		i++
+		i++;
 	}
 }
