@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include "main"
 
 /**
  *   main - check the code
@@ -10,8 +10,8 @@ int main(void)
 
 	while (c <= 'z')
 	{
-		putchar(c);
+		_putchar(c);
 		c++;
 	}
-	 putchar('\n');
+	_ putchar('\n');
 }
