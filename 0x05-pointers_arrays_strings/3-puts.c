@@ -8,12 +8,12 @@
 
 void _puts(char *str)
 {
-	int i;
+	int i = 0;
 
 	while (s[i])
 	{
 		_putchar(str[i]);
-		i++
+		i++;
 	}
 	_putchar('\n');
 }
